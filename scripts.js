@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
         autoScrolling: true,
         navigation: true,
         navigationPosition: 'right',
-        anchors: ['home', 'projects', 'about', 'contact'],
+        anchors: ['home', 'games', 'about', 'contact'],
         menu: '#navbarNav',
         scrollOverflow: true,
         afterLoad: function (origin, destination, direction) {
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
             autoScrolling: true,
             navigation: true,
             navigationPosition: 'right',
-            anchors: ['home', 'projects', 'about', 'contact'],
+            anchors: ['home', 'games', 'about', 'contact'],
             menu: '#navbarNav',
             scrollOverflow: true,
             afterLoad: function (origin, destination, direction) {
@@ -81,7 +81,25 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Initialize WOW.js for animations
     new WOW().init();
-});});
+});
+
+var modal = document.getElementById("myModal");
+
+// Get the image and insert it inside the modal
+var img = document.getElementById("openModalBtn").getElementsByTagName("img")[0];
+var modalImg = document.getElementById("myModal").getElementsByTagName("img2")[0];
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = this.src;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
 
 document.getElementById('contactForm').addEventListener('submit', function(event) {
     event.preventDefault();
@@ -95,4 +113,5 @@ document.getElementById('contactForm').addEventListener('submit', function(event
                      '&body=' + encodeURIComponent('Name: ' + name + '\n\nEmail: ' + email + '\n\nMessage: ' + message);
     
     window.location.href = mailtoLink;
-});
+});})
+
