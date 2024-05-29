@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaming Portfolio</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="index#home">Portfolio</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+                <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div id="fullpage">
+    <div class="section" id="homes">
+        <header class="bg-dark text-center py-5">
+            <h1 class="text-warning animate__animated animate__fadeInDown">My Gaming Portfolio</h1>
+        </header>
+    </div>
+    <div class="section" id="projectss">
+        <div class="container my-5">
+            <h2 class="text-center text-warning mb-4 animate__animated animate__fadeInDown">Projects</h2>
+            <div class="row">
+                <div class="col-md-4 mb-4 wow animate__animated animate__fadeInLeft" data-wow-delay="3s">
+                    <div class="card bg-secondary text-white">
+                        <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Game 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Game Title 1</h5>
+                            <p class="card-text">Brief description of the game project. Highlighting key features and technologies used.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4 wow animate__animated animate__fadeInUp" data-wow-delay="3s">
+                    <div class="card bg-secondary text-white">
+                        <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Game 2">
+                        <div class="card-body">
+                            <h5 class="card-title">Game Title 2</h5>
+                            <p class="card-text">Brief description of the game project. Highlighting key features and technologies used.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4 wow animate__animated animate__fadeInRight" data-wow-delay="3s">
+                    <div class="card bg-secondary text-white">
+                        <img src="https://via.placeholder.com/300x200" class="card-img-top" alt="Game 3">
+                        <div class="card-body">
+                            <h5 class="card-title">Game Title 3</h5>
+                            <p class="card-text">Brief description of the game project. Highlighting key features and technologies used.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section" id="abouts">
+        <div class="container my-5">
+            <h2 class="text-center text-warning mb-4 animate__animated animate__fadeInDown">About Me</h2>
+            <p class="text-center animate__animated animate__fadeInUp">Hello! I am a passionate game developer with experience in creating immersive and interactive games. My expertise includes game design, programming, and graphic design. I love exploring new technologies and continuously improving my skills to create better gaming experiences.</p>
+        </div>
+    </div>
+    <div class="section" id="contacts">
+        <div class="container my-5">
+            <h2 class="text-center text-warning mb-4 animate__animated animate__fadeInDown">Contact</h2>
+            <div class="row justify-content-center">
+                <div class="col-md-6 wow animate__animated animate__fadeInUp">
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <label for="name">Name:</label><br>
+                            <input type="text" id="name" name="name" class="form-control" placeholder="Your Name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email:</label><br>
+                            <input type="email" id="email" name="email" class="form-control" placeholder="Your Email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Message:</label><br>
+                            <textarea id="message" name="message" rows="4" class="form-control" placeholder="Your Message" required></textarea>
+                        </div>
+                        <div>
+                            <button type="submit" class="btn btn-warning btn-block">Send Message</button>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.6.0/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+<script src="scripts.js"></script>
+
+</body>
+<footer class="bg-dark text-center text-white py-3">
+    <div class="container">
+        <p>&copy; 2024 My Gaming Portfolio</p>
+        <div class="social-icons">
+            <a href="https://www.facebook.com" target="_blank" class="text-white mx-2"><i class="fab fa-facebook fa-2x"></i></a>
+            <a href="https://www.twitter.com" target="_blank" class="text-white mx-2"><i class="fab fa-twitter fa-2x"></i></a>
+            <a href="https://www.instagram.com" target="_blank" class="text-white mx-2"><i class="fab fa-instagram fa-2x"></i></a>
+            <a href="https://www.linkedin.com" target="_blank" class="text-white mx-2"><i class="fab fa-linkedin fa-2x"></i></a>
+            <a href="https://www.github.com" target="_blank" class="text-white mx-2"><i class="fab fa-github fa-2x"></i></a>
+        </div>
+    </div>
+</footer>
+</html>
