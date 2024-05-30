@@ -7,7 +7,7 @@ A portfolio website for myself, John Matthew Reyes, showcasing my interest in va
 - [Content Features](#content)
 - [Software and Tools](#software)
 - [Social](#social)
-- [Clone My Repository](#cloning)
+- [Clone My Repository](#Cloning of my Repository)
 
 ## Introduction
 Welcome to My Github Profile!
