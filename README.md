@@ -33,7 +33,7 @@ This portfolio website serves as a digital showcase for John Matthew Reyes's wor
    cd portfolio
 
 ## Social
-<a href="[https://linkedin.com/in/rammcodes](https://www.linkedin.com/in/reyes-john-matthew-l-88b877310)">
+<a href="https://www.linkedin.com/in/reyes-john-matthew-l-88b877310">
 <div align="center">
   <img src="assets/img/linkedin.png" alt="Ram Maheshwari Linkedin Profile" width="100%" />
   <br>
