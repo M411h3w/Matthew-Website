@@ -42,4 +42,4 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
    git clone https://github.com/M411h3w/Matthew-Website.git
    cd portfolio
 
-[Go Back Up](#PERSONAL-PORTFOLIO-JOHN-MATTHEW-REYES)
+[Go Back Up](#personal-portfolio--john-matthew-reyes)
