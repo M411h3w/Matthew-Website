@@ -43,7 +43,9 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
 </div>
 </a>
 
-<br/>
+<br>
+<br>
+<br>
 
 **[My Linkedin](https://www.linkedin.com/in/reyes-john-matthew-l-88b877310)**
 <a href="https://web.facebook.com/JustMe.4uzzz?_rdc=1&_rdr">
