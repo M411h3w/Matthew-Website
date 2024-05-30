@@ -35,7 +35,7 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
 - JavaScript
 
 ## Social
-**[My Facebook](https://www.linkedin.com/in/reyes-john-matthew-l-88b877310)**
+**[My Facebook](https://web.facebook.com/JustMe.4uzzz?_rdc=1&_rdr)**
 <a href="https://www.linkedin.com/in/reyes-john-matthew-l-88b877310">
 <div align="center">
   <img src="assets/img/fb-site.png" alt="John Matthew Reyes's LinkedInProfile" width="100%" />
@@ -45,7 +45,7 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
 
 <br/>
 
-**[My Linkedin](https://web.facebook.com/JustMe.4uzzz?_rdc=1&_rdr)**
+**[My Linkedin](https://www.linkedin.com/in/reyes-john-matthew-l-88b877310)**
 <a href="https://web.facebook.com/JustMe.4uzzz?_rdc=1&_rdr">
 <div align="center">
   <img src="assets/img/linkedin.png" alt="John Matthew Reyes's FB Profile" width="100%" />
