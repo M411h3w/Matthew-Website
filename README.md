@@ -4,8 +4,8 @@ A portfolio website for myself, John Matthew Reyes, showcasing my interest in va
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Content Features](#content)
-- [Software and Tools](#software)
+- [Content Features](#content-and-features)
+- [Software and Tools](#software-and-tools)
 - [Social](#social)
 - [Clone My Repository](#cloning-of-my-repository)
 
