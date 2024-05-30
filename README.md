@@ -9,7 +9,7 @@ A portfolio website for myself, John Matthew Reyes, showcasing my interest in va
 - [Preview](#preview-of-my-site)
 - [Content Features](#content-and-features)
 - [Software and Tools](#software-and-tools)
-- [Social](#social)
+- [Socials](#my-socials)
 - [Clone My Repository](#cloning-of-my-repository)
 
 <br/><br/><br/><br/>
@@ -46,7 +46,7 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
 
 <br/><br/><br/><br/>
 
-## Social
+## My Socials
 **[My Facebook](https://web.facebook.com/JustMe.4uzzz?_rdc=1&_rdr)**
 <a href="https://www.linkedin.com/in/reyes-john-matthew-l-88b877310">
 <div align="center">
