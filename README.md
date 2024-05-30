@@ -4,6 +4,7 @@ A portfolio website for myself, John Matthew Reyes, showcasing my interest in va
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Preview](#preview-of-my-site)
 - [Content Features](#content-and-features)
 - [Software and Tools](#software-and-tools)
 - [Social](#social)
@@ -13,6 +14,12 @@ A portfolio website for myself, John Matthew Reyes, showcasing my interest in va
 Welcome to My Github Profile!
 
 Heyyaa, I'm John Matthew Reyes, a student with a passion for game development and a deep enthusiasm for games. I aspire to build my career in the gaming industry, where creativity meets technology. My journey began with a fascination for how games are created and a desire to bring my own imaginative worlds to life.
+
+## Preview of my site
+<div align="center">
+  <img src="assets/img/wbst-home.png" alt="Matthew Portfolio" width="100%" />
+  <br>
+</div>
 
 ## Content and Features
 - Interactive navigation of pages
@@ -31,7 +38,17 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
 **[My Linkedin](https://www.linkedin.com/in/reyes-john-matthew-l-88b877310)**
 <a href="https://www.linkedin.com/in/reyes-john-matthew-l-88b877310">
 <div align="center">
-  <img src="assets/img/linkedin.png" alt="John Matthew Reyes's Profile" width="100%" />
+  <img src="assets/img/linkedin.png" alt="John Matthew Reyes's LinkedInProfile" width="100%" />
+  <br>
+</div>
+</a>
+
+<br/>
+
+**[My Linkedin](https://web.facebook.com/JustMe.4uzzz?_rdc=1&_rdr)**
+<a href="https://web.facebook.com/JustMe.4uzzz?_rdc=1&_rdr">
+<div align="center">
+  <img src="assets/img/linkedin.png" alt="John Matthew Reyes's FB Profile" width="100%" />
   <br>
 </div>
 </a>
