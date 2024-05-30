@@ -6,8 +6,9 @@ A portfolio website for myself, John Matthew Reyes, showcasing my interest in va
 - [Introduction](#introduction)
 - [Content Features](#content)
 - [Software and Tools](#software)
-- [Clone My Repository](#cloning)
 - [Social](#social)
+- [Clone My Repository](#cloning)
+- 
 
 ## Introduction
 Welcome to My Github Profile!
@@ -27,12 +28,6 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
 - CSS3 (including Bootstrap and Animate.css)
 - JavaScript
 
-## Cloning of my Repository
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/M411h3w/Matthew-Website.git
-   cd portfolio
-
 ## Social
 **[My Linkedin](https://www.linkedin.com/in/reyes-john-matthew-l-88b877310)**
 <a href="https://www.linkedin.com/in/reyes-john-matthew-l-88b877310">
@@ -41,3 +36,9 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
   <br>
 </div>
 </a>
+
+## Cloning of my Repository
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/M411h3w/Matthew-Website.git
+   cd portfolio
