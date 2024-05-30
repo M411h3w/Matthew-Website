@@ -14,7 +14,7 @@ Welcome to My Github Profile!
 
 Heyyaa, I'm John Matthew Reyes, a student with a passion for game development and a deep enthusiasm for games. I aspire to build my career in the gaming industry, where creativity meets technology. My journey began with a fascination for how games are created and a desire to bring my own imaginative worlds to life.
 
-## Content Features
+## Content and Features
 - Interactive navigation of pages
 - Sections for my most preferred games
 - Bit of info about myself
