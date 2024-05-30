@@ -1,4 +1,4 @@
-# PERSONAL PORTFOLIO - JOHN MATTHEW REYES
+## PERSONAL PORTFOLIO - JOHN MATTHEW REYES
 
 A portfolio website for myself, John Matthew Reyes, showcasing my interest in variety of video games, listed skills, info about myself, and also my resume.
 
@@ -42,4 +42,4 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
    git clone https://github.com/M411h3w/Matthew-Website.git
    cd portfolio
 
-[Go Back Up](#table-of-contents)
+[Go Back Up](#PERSONAL-PORTFOLIO-JOHN-MATTHEW-REYES)
