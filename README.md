@@ -2,7 +2,7 @@
 
 A portfolio website for myself, John Matthew Reyes, showcasing my interest in variety of video games, listed skills, info about myself, and also my resume.
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,7 +12,7 @@ A portfolio website for myself, John Matthew Reyes, showcasing my interest in va
 - [Social](#social)
 - [Clone My Repository](#cloning-of-my-repository)
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## Introduction
 Welcome to My Github Profile!
@@ -27,7 +27,7 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
   <br>
 </div>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## Content and Features
 - Interactive navigation of pages
@@ -37,14 +37,14 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
 - My resume
 - Links to my socials
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## Software and Tools
 - HTML5
 - CSS3 (including Bootstrap and Animate.css)
 - JavaScript
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## Social
 **[My Facebook](https://web.facebook.com/JustMe.4uzzz?_rdc=1&_rdr)**
@@ -64,7 +64,7 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
 </div>
 </a>
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 ## Cloning of my Repository
 1. Clone the repository:
