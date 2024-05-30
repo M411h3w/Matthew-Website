@@ -87,7 +87,7 @@ var modal = document.getElementById("myModal");
 
 // Get the image and insert it inside the modal
 var img = document.getElementById("openModalBtn").getElementsByTagName("img")[0];
-var modalImg = document.getElementById("myModal").getElementsByTagName("img2")[0];
+var modalImg = document.getElementById("myModal").getElementsByTagName("")[0];
 img.onclick = function(){
   modal.style.display = "block";
   modalImg.src = this.src;
@@ -114,4 +114,63 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     
     window.location.href = mailtoLink;
 });})
+
+// Get the modals
+var genshinModal = document.getElementById("genshinModal");
+var valorantModal = document.getElementById("valorantModal");
+var leagueModal = document.getElementById("leagueModal");
+var starRailModal = document.getElementById("starRailModal");
+var codModal = document.getElementById("codModal");
+var mlModal = document.getElementById("mlModal");
+
+// Get the button that opens the modal
+var genshinBtn = document.getElementById("genshinBtn");
+var valorantBtn = document.getElementById("valorantBtn");
+var leagueBtn = document.getElementById("leagueBtn");
+var starRailBtn = document.getElementById("starRailBtn");
+var codBtn = document.getElementById("codBtn");
+var mlBtn = document.getElementById("mlBtn");
+
+// Get the <span> element that closes the modal
+var spans = document.getElementsByClassName("close");
+
+// Function to open modal
+function openModal(modal) {
+    modal.style.display = "block";
+}
+
+// Function to close modal
+for (var i = 0; i < spans.length; i++) {
+    spans[i].onclick = function () {
+        var modal = this.parentElement;
+        modal.style.display = "none";
+    };
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function (event) {
+    if (event.target.className === "modal") {
+        event.target.style.display = "none";
+    }
+};
+
+// Event listeners to open modals
+genshinBtn.onclick = function() {
+    openModal(genshinModal);
+};
+valorantBtn.onclick = function() {
+    openModal(valorantModal);
+};
+leagueBtn.onclick = function() {
+    openModal(leagueModal);
+};
+starRailBtn.onclick = function() {
+    openModal(starRailModal);
+};
+codBtn.onclick = function() {
+    openModal(codModal);
+};
+mlBtn.onclick = function() {
+    openModal(mlModal);
+};
 
