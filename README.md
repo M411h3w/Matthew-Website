@@ -7,7 +7,7 @@ This is a portfolio website for John Matthew Reyes, showcasing his skills, proje
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Social](#social)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -31,3 +31,11 @@ This portfolio website serves as a digital showcase for John Matthew Reyes's wor
    ```bash
    git clone https://github.com/johnmattreyes/portfolio.git
    cd portfolio
+
+## Social
+<a href="[https://linkedin.com/in/rammcodes](https://www.linkedin.com/in/reyes-john-matthew-l-88b877310)">
+<div align="center">
+  <img src="assets/img/linkedin.png" alt="Ram Maheshwari Linkedin Profile" width="100%" />
+  <br>
+</div>
+</a>
