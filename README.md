@@ -39,7 +39,6 @@ Heyyaa, I'm John Matthew Reyes, a student with a passion for game development an
 <a href="https://www.linkedin.com/in/reyes-john-matthew-l-88b877310">
 <div align="center">
   <img src="assets/img/fb-site.png" alt="John Matthew Reyes's LinkedInProfile" width="100%" />
-  <br>
 </div>
 </a>
 
