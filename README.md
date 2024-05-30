@@ -33,6 +33,7 @@ This portfolio website serves as a digital showcase for John Matthew Reyes's wor
    cd portfolio
 
 ## Social
+**[My Linkedin](https://www.linkedin.com/in/reyes-john-matthew-l-88b877310)**
 <a href="https://www.linkedin.com/in/reyes-john-matthew-l-88b877310">
 <div align="center">
   <img src="assets/img/linkedin.png" alt="John Matthew Reyes's Profile" width="100%" />
