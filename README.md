@@ -1,35 +1,35 @@
-# John Matthew Reyes - Portfolio
+# PERSONAL PORTFOLIO - JOHN MATTHEW REYES
 
-This is a portfolio website for John Matthew Reyes, showcasing his skills, projects, and interests in the field of game development.
+A portfolio website for myself, John Matthew Reyes, showcasing my interest in variety of video games, listed skills, info about myself, and also my resume.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
+- [Software and Tools](#software)
+- [Clone My Repository](#cloning)
 - [Social](#social)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
-This portfolio website serves as a digital showcase for John Matthew Reyes's work in game development and software development. It includes sections for games he's interested in, his skills, and a brief about him.
+Welcome to My Github Profile!
 
-## Features
+Heyyaa, I'm John Matthew Reyes, a student with a passion for game development and a deep enthusiasm for games. I aspire to build my career in the gaming industry, where creativity meets technology. My journey began with a fascination for how games are created and a desire to bring my own imaginative worlds to life.
+
+## Content Features
 - Interactive navigation
 - Sections for preferred games
 - About Me section
 - Skills section
 - Links to John's CV
 
-## Technologies Used
+## Software and Tools
 - HTML5
 - CSS3 (including Bootstrap and Animate.css)
 - JavaScript
 
-## Installation
+## Cloning of my Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/johnmattreyes/portfolio.git
+   git clone https://github.com/M411h3w/Matthew-Website.git
    cd portfolio
 
 ## Social
